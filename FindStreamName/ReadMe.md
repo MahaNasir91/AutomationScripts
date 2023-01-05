@@ -1,0 +1,1 @@
+Reads the xml from the source tree and find the current stream for which the tree is being set up for.

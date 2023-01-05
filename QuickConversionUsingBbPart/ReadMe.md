@@ -1,0 +1,1 @@
+This script Runs the conversion script via bentley build commands.

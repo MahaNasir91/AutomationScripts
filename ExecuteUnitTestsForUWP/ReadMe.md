@@ -1,0 +1,1 @@
+This scripts executes a set of commands to run unit tests on Winrtx64.

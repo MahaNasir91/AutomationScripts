@@ -1,0 +1,1 @@
+This script pulls the changes from the latest build and updates the user's source tree accordingly.

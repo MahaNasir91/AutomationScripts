@@ -1,0 +1,1 @@
+This script Generate report for the typescript tests.
